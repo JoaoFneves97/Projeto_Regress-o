@@ -36,7 +36,6 @@ Nesse projeto iremos utilizar a metodologia do *Crisp-DM*, como base para o dese
     - `model_modelling.py`: Módulo para modelagem dos dados.
     - `model_preprocessing.py`: Módulo para pre processamento dos dados.
     - `model_evaluation.py`: Módulo para avaliação do modelo.
-    
 - `main.py`: Script principal para executar o pipeline.
 - `.gitignore`: Arquivo para excluir arquivos desnecessários do Git.
 - `requirements.txt`: Arquivo para listar dependências do projeto.
