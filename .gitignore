@@ -1,0 +1,5 @@
+project_regression/
+__pycache__/
+*.pyc
+.DS_Store
+data/
